@@ -10,7 +10,6 @@ const CompanyLogos = ({className}) => {
             <img src={logo} alt="company" width={100} height={100} />
           </li>
         ))}
-        
       </ul>
     </div>
   )
